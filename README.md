@@ -1,2 +1,3 @@
-# DFADD_demo_pages
-This is a repo for audio samples of DFADD dataset
+# DFADD: THE DIFFUSION AND FLOW-MATCHING BASED AUDIO DEEPFAKE DATASET
+
+This is a repo for audio samples of DFADD dataset.
